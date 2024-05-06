@@ -14,7 +14,7 @@ export const projects = [
     id: 1,
     src: project1,
     name: 'Web Studio',
-    href: 'https://marventures.github.io/goit-markup-hw-07/',
+    href: 'https://crisvfx.github.io/goit-markup-hw-07/index.html',
   },
   {
     id: 2,
